@@ -1,0 +1,22 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background: rgb(0, 0, 0);
+}
+.container{
+    font-family: "Times New Roman", Times, serif;;
+    padding: 30px;
+    color: #150a29;
+    font-weight: bold;
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    transform: translate(50%, -50%);
+    font-size: 170px;
+    white-space: nowrap;
+}
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #d8fa82;
+}
